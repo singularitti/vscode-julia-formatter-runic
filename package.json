@@ -192,7 +192,7 @@
   "dependencies": {
     "@rauschma/stringio": "^1.4.0",
     "child_process": "^1.0.2",
-    "diff": "^4.0.1",
+    "diff": "^8.0.3",
     "untildify": "^4.0.0",
     "util": "^0.12.1"
   }
